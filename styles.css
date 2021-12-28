@@ -94,7 +94,6 @@ body{
     margin-left: -10px;
 }
 .one ul a{
-
     color:#00ffa6;
     text-decoration: none;
     margin-bottom: 10px;
@@ -111,7 +110,7 @@ body{
     border-top-right-radius:8px;
     border-bottom-left-radius:8px;
     border-bottom-right-radius:8px;
-    box-shadow: 0px 10px 14px -7px #276873;
+    box-shadow: 2px 10px 14px 4px #0000008a;
     text-shadow: 0px 1px 0px #3d768a;
     background:linear-gradient(#b35999, #994062);
     text-align: center;
